@@ -1,0 +1,25 @@
+C:\Users\ASUS\source\repos\FOOD_хранение рецептов\FOOD_хранение рецептов\bin\Debug\net8.0-windows\FOOD_хранение рецептов.exe
+C:\Users\ASUS\source\repos\FOOD_хранение рецептов\FOOD_хранение рецептов\bin\Debug\net8.0-windows\FOOD_хранение рецептов.deps.json
+C:\Users\ASUS\source\repos\FOOD_хранение рецептов\FOOD_хранение рецептов\bin\Debug\net8.0-windows\FOOD_хранение рецептов.runtimeconfig.json
+C:\Users\ASUS\source\repos\FOOD_хранение рецептов\FOOD_хранение рецептов\bin\Debug\net8.0-windows\FOOD_хранение рецептов.dll
+C:\Users\ASUS\source\repos\FOOD_хранение рецептов\FOOD_хранение рецептов\bin\Debug\net8.0-windows\FOOD_хранение рецептов.pdb
+C:\Users\ASUS\source\repos\FOOD_хранение рецептов\FOOD_хранение рецептов\obj\Debug\net8.0-windows\FOOD_хранение_рецептов.Form1.resources
+C:\Users\ASUS\source\repos\FOOD_хранение рецептов\FOOD_хранение рецептов\obj\Debug\net8.0-windows\FOOD_хранение_рецептов.Form2.resources
+C:\Users\ASUS\source\repos\FOOD_хранение рецептов\FOOD_хранение рецептов\obj\Debug\net8.0-windows\FOOD_хранение_рецептов.Form3.resources
+C:\Users\ASUS\source\repos\FOOD_хранение рецептов\FOOD_хранение рецептов\obj\Debug\net8.0-windows\FOOD_хранение_рецептов.Form4.resources
+C:\Users\ASUS\source\repos\FOOD_хранение рецептов\FOOD_хранение рецептов\obj\Debug\net8.0-windows\FOOD_хранение_рецептов.Resources.resources
+C:\Users\ASUS\source\repos\FOOD_хранение рецептов\FOOD_хранение рецептов\obj\Debug\net8.0-windows\FOOD_хранение рецептов.vbproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\FOOD_хранение рецептов\FOOD_хранение рецептов\obj\Debug\net8.0-windows\FOOD_хранение рецептов.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\FOOD_хранение рецептов\FOOD_хранение рецептов\obj\Debug\net8.0-windows\FOOD_хранение рецептов.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\FOOD_хранение рецептов\FOOD_хранение рецептов\obj\Debug\net8.0-windows\FOOD_хранение рецептов.AssemblyInfo.vb
+C:\Users\ASUS\source\repos\FOOD_хранение рецептов\FOOD_хранение рецептов\obj\Debug\net8.0-windows\FOOD_хранение рецептов.vbproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\FOOD_хранение рецептов\FOOD_хранение рецептов\obj\Debug\net8.0-windows\FOOD_хранение рецептов.dll
+C:\Users\ASUS\source\repos\FOOD_хранение рецептов\FOOD_хранение рецептов\obj\Debug\net8.0-windows\refint\FOOD_хранение рецептов.dll
+C:\Users\ASUS\source\repos\FOOD_хранение рецептов\FOOD_хранение рецептов\obj\Debug\net8.0-windows\FOOD_хранение рецептов.pdb
+C:\Users\ASUS\source\repos\FOOD_хранение рецептов\FOOD_хранение рецептов\obj\Debug\net8.0-windows\FOOD_хранение рецептов.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\FOOD_хранение рецептов\FOOD_хранение рецептов\obj\Debug\net8.0-windows\ref\FOOD_хранение рецептов.dll
+C:\Users\ASUS\source\repos\FOOD_хранение рецептов\FOOD_хранение рецептов\obj\Debug\net8.0-windows\FOOD_хранение_рецептов.Form5.resources
+C:\Users\ASUS\source\repos\FOOD_хранение рецептов\FOOD_хранение рецептов\obj\Debug\net8.0-windows\FOOD_хранение_рецептов.Form6.resources
+C:\Users\ASUS\source\repos\FOOD_хранение рецептов\FOOD_хранение рецептов\obj\Debug\net8.0-windows\FOOD_хранение_рецептов.Form7.resources
+C:\Users\ASUS\source\repos\FOOD_хранение рецептов\FOOD_хранение рецептов\obj\Debug\net8.0-windows\FOOD_хранение_рецептов.Form8.resources
+C:\Users\ASUS\source\repos\FOOD_хранение рецептов\FOOD_хранение рецептов\obj\Debug\net8.0-windows\FOOD_хранение_рецептов.Form9.resources
